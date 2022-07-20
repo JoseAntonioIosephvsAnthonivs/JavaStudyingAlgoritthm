@@ -1,0 +1,16 @@
+package com.java;
+
+public class TesteConta {
+	Conta contaCorrente = new Conta();
+	Conta contaPoupanca = new Conta();
+	Conta contaInvestimento = new Conta();
+
+	contaCorrente.numero = 11;
+	contaCorrente.saldo = 20.50;
+	
+	contaPoupanca.numero = 22;
+	contaPoupanca.saldo = 40.22;
+	
+	contaInvestimento = 33;
+	contaInvestimento = 41.55;
+}
